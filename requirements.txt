@@ -1,3 +1,5 @@
 streamlit
-searoute
 pandas
+searoute
+shapely>=2.0
+pyproj>=3.5
